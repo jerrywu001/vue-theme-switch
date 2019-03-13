@@ -1,0 +1,21 @@
+$button-color: #fff;
+$button-background-color: rgb(180, 6, 87);
+$text-line-height: 13px;
+$menu-width: 50px;
+$menu-height: 50px;
+
+button {
+    background-color: $button-background-color;
+    outline: none;
+    border: none;
+    padding: 5px 8px;
+    margin: 3px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.test-img {
+    background-image: url(../../assets/images/test/tea.png);
+    width: 64px;
+    height: 64px;
+}
